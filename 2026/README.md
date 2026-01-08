@@ -8,15 +8,13 @@ If you'd like to ask your question privately, please email me at richard c evans
 ## Where do I find the recordings? 
 
 - After the session, they will be posted to AskTom DB Security Office Hours: https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_series_id=339825187736628088957543076199215576315
-- For Oracle partners, your session will be available on the Oracle Partner Network page.
 - For Oracle employees, your session will be available on OTube. 
 
 ## Announcements and Product Updates
 
+- Securing Oracle AI Database 26ai for the Quantum Era: https://blogs.oracle.com/database/oracle-ai-database-26ai-pqc
 - Oracle Key Vault 21.11 released: https://blogs.oracle.com/database/post/okv2111
 - Oracle Database 19c RU 22 (19.22) supports v2 OAuth2 tokens for Microsoft Entra ID authentication: https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/authenticating-and-authorizing-microsoft-azure-active-directory-users-oracle-databases.html
-- Streamline Data Masking and Subsetting in Enterprise Manager 24ai: https://blogs.oracle.com/database/post/dms24ai
-- Oracle Data Masking and Subsetting on Enterprise Manager 24ai: https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=704
 - Give SCOTT/TIGER Teeth: Oracle Database Multifactor Authentication (MFA) is Here: https://blogs.oracle.com/database/post/new-mfa-jul2025
 
 ## Critical Patches and Updates
@@ -24,7 +22,7 @@ If you'd like to ask your question privately, please email me at richard c evans
 - For Critical Patch Updates, Security Alerts, and Bulletins for all Oracle products please see: https://www.oracle.com/security-alerts
 - For patch numbers and more details see My Oracle Support (MOS) Note: 2118136.2 
 - Fleet Patching and Provisioning: https://docs.oracle.com/en/database/oracle/oracle-database/19/cwadd/rapid-home-provisioning.html
-- CPU Program Oct 2022 Patch Availability Document (DB-only) (Doc ID 2888497.1)	
+- CPU Program Patch Availability Document (DB-only) (Doc ID 2888497.1)	
 
 ## My Oracle Support Notes
 
@@ -36,16 +34,13 @@ If you'd like to ask your question privately, please email me at richard c evans
 ## Links from the presentation
 
 - Release Schedule of Current Database Releases: https://support.oracle.com/support/?kmContentId=742060&page=sptemplate&sptemplate=km-article
-- Streamlining the transition to Unified Auditing: https://www.youtube.com/watch?v=oRr7rLTGrug
-Give SCOTT/TIGER Teeth: Oracle Database Multifactor Authentication (MFA) is Here: https://blogs.oracle.com/database/new-mfa-jul2025
 - Enhancement Request 36989926: Certificate authentication by thumbprint (planned availability in CY2026)
 - Securing Oracle AI Database 26ai for the Quantum Era: https://blogs.oracle.com/database/oracle-ai-database-26ai-pqc
-- Data Safe release notes: https://docs.oracle.com/en-us/iaas/releasenotes/services/data-safe/index.htm
-- Simplifying Database Security Compliance at Scale with Oracle Data Safe: https://blogs.oracle.com/database/simplifying-database-security-compliance-at-scale-with-oracle-data-safe
-- Keep your Oracle Audit Vault and Database Firewall (AVDF) Deployment Up to Date: Apply the 20.16 Release Update and Discover Our 5-Year Transformation: https://blogs.oracle.com/database/avdf20-16
-- Celebrating 5 Years of Innovation with Oracle Audit Vault and Database Firewall (AVDF): https://blogs.oracle.com/database/avdf20-5years
-- Oracle Key Vault: Extending deeper into your environment: https://blogs.oracle.com/database/okv2112
-- Peter has a great set of blogs available to you on both TDE, SSH key management, Key Vault, and more: https://blogs.oracle.com/authors/peter-wahl-author
+- Cryptographic Module Validation Program (CMVP): https://csrc.nist.gov/Projects/cryptographic-module-validation-program/modules-in-process/modules-in-process-list
+- Oracle LiveLabs - Native Network Encryption: https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=700
+- Oracle LiveLabs - Successfully protect your database communication using 1-way Transport Layer Security (TLS): https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=3631
+- Harvest now, decrypt later: https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later
+- Oracle Documentation topics on TLS_KEY_EXCHANGE_GROUPS: https://docs.oracle.com/pls/topic/lookup?ctx=en/database/oracle/oracle-database/26/dbseg&id=NETRF-GUID-E0686256-6FCA-4036-A1F3-094A4E460A4E
 
 
 ## Oracle LiveLabs
